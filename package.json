@@ -10,8 +10,8 @@
   },
   "devDependencies": {
     "buffer-reverse": "^1.0.1",
-    "standard": "^12.0.1",
-    "tape": "^4.10.1"
+    "standard": "^16.0.3",
+    "tape": "^5.2.2"
   },
   "scripts": {
     "pretest": "standard",
