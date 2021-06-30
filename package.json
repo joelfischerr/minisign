@@ -6,7 +6,7 @@
   "dependencies": {
     "buffer-xor": "^2.0.2",
     "minimist": "^1.2.0",
-    "sodium-native": "^2.4.2"
+    "sodium-native": "^3.1.2"
   },
   "devDependencies": {
     "buffer-reverse": "^1.0.1",
